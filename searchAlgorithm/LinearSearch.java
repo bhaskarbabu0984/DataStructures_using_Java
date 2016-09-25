@@ -1,4 +1,4 @@
-package com.ds.searchAlgorithm;
+package searchAlgorithm;
 
 public class LinearSearch {
 

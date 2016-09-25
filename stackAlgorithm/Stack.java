@@ -1,4 +1,4 @@
-package com.ds.stackAlgorithm;
+package stackAlgorithm;
 
 public class Stack {
 	//Indicator to top of the stack

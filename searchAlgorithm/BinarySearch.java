@@ -1,4 +1,4 @@
-package com.ds.searchAlgorithm;
+package searchAlgorithm;
 
 public class BinarySearch {
 	public static void main(String[] args) {

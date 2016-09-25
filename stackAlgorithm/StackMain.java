@@ -1,4 +1,4 @@
-package com.ds.stackAlgorithm;
+package stackAlgorithm;
 
 public class StackMain {
 
